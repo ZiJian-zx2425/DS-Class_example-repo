@@ -1,1 +1,3 @@
-# DS-Class_example-repo
+# Example Repo
+
+This is an example repo
